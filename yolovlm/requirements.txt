@@ -1,0 +1,7 @@
+cvzone==1.6.1
+numpy==2.2.3
+openai==1.64.0
+opencv_python==4.11.0.86
+pandas==2.2.3
+torch==2.6.0
+ultralytics==8.3.78

@@ -1,0 +1,8 @@
+*.mp4
+*.mov
+*.avi
+*.csv
+__pycache__/
+*.jpg
+all_code_output.txt
+yolovlm/test_data/.DS_Store
